@@ -6,7 +6,7 @@
 <img src="https://readme-typing-svg.demolab.com/?lines=Fullstack+Web+Developer;UI%2FUX+Web+Designer;Laravel+%7C+React+%7C+NodeJS;Keep+Learning+🚀&center=true&width=500&height=50">
 </p>
 
----
+----
 
 ## 🧑🏻‍💻 About Me
 💻 Web Developer dengan pengalaman 2 tahun  
