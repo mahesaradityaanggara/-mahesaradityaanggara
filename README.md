@@ -1,16 +1,14 @@
-<h1 align="center">Hi, I'm Mahesa Raditya Anggara</h1>
+<h1 align="center">Hi 👋, I'm Mahesa Raditya Anggara</h1>
 
-<h3 align="center">Web Developer | Laravel & React Enthusiast</h3>
+<h3 align="center">💻 Fullstack Web Developer | 🎨 UI/UX Web Designer</h3>
 
 <p align="center">
-
-<img src="https://readme-typing-svg.demolab.com/?lines=Fullstack+Web+Developer+And+UI UX+Desig;Laravel+%7C+React+%7C+NodeJS;Keep+Learning+%F0%9F%9A%80&center=true&width=500&height=50">
-
+<img src="https://readme-typing-svg.demolab.com/?lines=Fullstack+Web+Developer;UI%2FUX+Web+Designer;Laravel+%7C+React+%7C+NodeJS;Keep+Learning+🚀&center=true&width=500&height=50">
 </p>
 
 ---
 
-## 🧑‍💼 About Me
+## 🧑🏻‍💻 About Me
 💻 Web Developer dengan pengalaman 2 tahun  
 🎓 SMKN 1 Cisarua - RPL  
 ⚡ Suka bikin project & belajar teknologi baru  
@@ -20,7 +18,7 @@
 
 ## 🚀 Tech Stack
 <p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,js,php,laravel,react,nodejs,tailwind,mysql,git,github,vscode" />
+<img src="https://skillicons.dev/icons?i=html,css,js,php,laravel,react,nodejs,tailwind,mysql,git,github,vscode,figma" />
 </p>
 
 ---
@@ -48,8 +46,12 @@
 
 ## 🌐 Connect With Me
 <p align="center">
-<a href="https://www.instagram.com/essaanggara_?igsh=cnBqNGF3MGNzN2V4&utm_source=qr"><img src="https://img.shields.io/badge/Instagram-black?style=for-the-badge&logo=instagram"></a>
-<a href="mailto:mahesa2710@gmail.com"><img src="https://img.shields.io/badge/Gmail-black?style=for-the-badge&logo=gmail"></a>
+<a href="https://www.instagram.com/essaanggara_?igsh=cnBqNGF3MGNzN2V4&utm_source=qr">
+<img src="https://img.shields.io/badge/Instagram-black?style=for-the-badge&logo=instagram">
+</a>
+<a href="mailto:mahesa2710@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-black?style=for-the-badge&logo=gmail">
+</a>
 </p>
 
 ---
