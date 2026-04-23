@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Mahesa Raditya Anggara</h1>
+<h1 align="center">Hi, I'm Mahesa Raditya Anggara</h1>
 
 <h3 align="center">💻 Web Developer | Laravel & React Enthusiast</h3>
 
