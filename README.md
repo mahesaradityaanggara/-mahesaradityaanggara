@@ -1,52 +1,57 @@
 <h1 align="center">Hi 👋, I'm Mahesa Raditya Anggara</h1>
-<h3 align="center">💻 Web Developer | Laravel & React Enthusiast</h3>
+<h3 align="center">💻 Web Developer | Fullstack Enthusiast</h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com/?lines=Fullstack+Web+Developer;Laravel+%7C+React+%7C+NodeJS;Keep+Learning+%F0%9F%9A%80&center=true&width=500&height=50">
+<img src="https://readme-typing-svg.demolab.com/?lines=Fullstack+Web+Developer;Laravel+%7C+React+%7C+NodeJS;Keep+Going+From+Zero+🚀&center=true&width=500&height=50">
 </p>
 
 ---
 
-### 👨‍💻 About Me
-- 🔭 Fokus di Web Development  
-- 💼 Pengalaman: 2 Tahun  
-- 🎓 SMKN 1 Cisarua - RPL  
-- ⚡ Suka eksplor teknologi baru & bikin project  
+## 🧑‍💼 About Me
+💻 Web Developer dengan pengalaman 2 tahun  
+🎓 SMKN 1 Cisarua - RPL  
+⚡ Suka bikin project & belajar teknologi baru  
+🔥 Fokus: Laravel, React, Node.js  
 
 ---
 
-### 🚀 Tech Stack
+## 🚀 Tech Stack
 <p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,js,php,laravel,react,nodejs,tailwind,git,github,vscode" />
+<img src="https://skillicons.dev/icons?i=html,css,js,php,laravel,react,nodejs,tailwind,mysql,git,github,vscode" />
 </p>
 
 ---
 
-### 📊 GitHub Stats
+## 📊 GitHub Stats
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=USERNAME_KAMU&show_icons=true&theme=tokyonight"/>
+<img src="https://github-readme-stats.vercel.app/api?username=mahesaradityaanggara&show_icons=true&theme=tokyonight&border_radius=10"/>
 </p>
 
 ---
 
-### 🔥 GitHub Streak
+## 🔥 Streak Stats
 <p align="center">
-<img src="https://streak-stats.demolab.com/?user=USERNAME_KAMU&theme=tokyonight"/>
+<img src="https://streak-stats.demolab.com/?user=mahesaradityaanggara&theme=tokyonight&border_radius=10"/>
 </p>
 
 ---
 
-### 📈 Top Languages
+## 📈 Most Used Languages
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME_KAMU&layout=compact&theme=tokyonight"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahesaradityaanggara&layout=compact&theme=tokyonight"/>
 </p>
 
 ---
 
-### 🌐 Portfolio
-- 🔗 https://portfolio-kamu.vercel.app
+## 🌐 Connect With Me
+<p align="center">
+<a href="#"><img src="https://img.shields.io/badge/Instagram-black?style=for-the-badge&logo=instagram"></a>
+<a href="#"><img src="https://img.shields.io/badge/Gmail-black?style=for-the-badge&logo=gmail"></a>
+</p>
 
 ---
 
-### ✨ Quote
-> "Everything starts from zero. Keep going 🚀"
+## ✨ Quote
+<p align="center">
+<i>"Everything starts from zero. Keep going 🚀"</i>
+</p>
