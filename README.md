@@ -9,10 +9,9 @@
 ----
 
 ## 🧑🏻‍💻 About Me
-💻 Web Developer dengan pengalaman 2 tahun  
-🎓 SMKN 1 Cisarua - RPL  
-⚡ Suka bikin project & belajar teknologi baru  
-🔥 Fokus: Laravel, React, Node.js  
+💻 Web Developer (2+ years experience)  
+🎓 SMKN 1 Cisarua - Software Engineering  
+🔥 Focus: PHP (Laravel), JavaScript, UI/UX (Figma)
 
 ---
 
