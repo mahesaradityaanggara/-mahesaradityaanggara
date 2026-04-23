@@ -3,7 +3,7 @@
 <h3 align="center">Fullstack Web Developer | UI/UX Web Designer</h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com/?lines=Fullstack+Web+Developer;UI%2FUX+Web+Designer;Laravel+%7C+React+%7C+NodeJS;Keep+Learning+&center=true&width=500&height=50">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=Fullstack+Web+Developer;UI%2FUX+Web+Designer;PHP+(Laravel)+%7C+JavaScript;Design+with+Figma;Keep+Learning">
 </p>
 
 ----
@@ -57,5 +57,5 @@
 
 ## ✨ Quote
 <p align="center">
-<i>"Everything starts from zero. Keep going 🚀"</i>
+<i>"Everything starts from zero. Keep going"</i>
 </p>
