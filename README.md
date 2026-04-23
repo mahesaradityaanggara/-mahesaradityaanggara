@@ -1,10 +1,10 @@
 <h1 align="center">Hi, I'm Mahesa Raditya Anggara</h1>
 
-<h3 align="center">💻 Web Developer | Laravel & React Enthusiast</h3>
+<h3 align="center">Web Developer | Laravel & React Enthusiast</h3>
 
 <p align="center">
 
-<img src="https://readme-typing-svg.demolab.com/?lines=Fullstack+Web+Developer;Laravel+%7C+React+%7C+NodeJS;Keep+Learning+%F0%9F%9A%80&center=true&width=500&height=50">
+<img src="https://readme-typing-svg.demolab.com/?lines=Fullstack+Web+Developer+And+UI UX+Desig;Laravel+%7C+React+%7C+NodeJS;Keep+Learning+%F0%9F%9A%80&center=true&width=500&height=50">
 
 </p>
 
