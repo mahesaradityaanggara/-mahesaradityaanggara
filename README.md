@@ -48,8 +48,8 @@
 
 ## 🌐 Connect With Me
 <p align="center">
-<a href="#"><img src="https://img.shields.io/badge/Instagram-black?style=for-the-badge&logo=instagram"></a>
-<a href="https://www.instagram.com/essaanggara_?igsh=cnBqNGF3MGNzN2V4&utm_source=qr"><img src="https://img.shields.io/badge/Gmail-black?style=for-the-badge&logo=gmail"></a>
+<a href="https://www.instagram.com/essaanggara_?igsh=cnBqNGF3MGNzN2V4&utm_source=qr"><img src="https://img.shields.io/badge/Instagram-black?style=for-the-badge&logo=instagram"></a>
+<a href="mailto:mahesa2710@gmail.com"><img src="https://img.shields.io/badge/Gmail-black?style=for-the-badge&logo=gmail"></a>
 </p>
 
 ---
